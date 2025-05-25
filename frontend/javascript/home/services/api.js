@@ -1,4 +1,6 @@
-const URL = 'http://localhost:5000/api';
+import { URI } from "../../uri.js";
+
+const URL =  URI + '/api';
 
 // Export: Hace que pueda llamarse desde otros archivos de javascript
 // Async: Hace a la función asincrona
