@@ -1,1 +1,0 @@
-export const URI = 'https://python-flask-render-qzsv.onrender.com';
